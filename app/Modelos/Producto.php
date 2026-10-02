@@ -12,5 +12,4 @@ abstract class Producto
         return $this->precioBase * $cantidad;
     }
 }
-
 ?>
